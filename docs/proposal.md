@@ -24,7 +24,7 @@
 
 **Data Shape:** 426,880 rows, 26 columns
 
-**Time Period:** Not specified (data likely includes a range of years)
+**Time Period:** 1900 - 2022
 
 **Columns Description and Data Types:**
 - **ID (int):** Unique ID assigned to every ad and serves as the primary key.
