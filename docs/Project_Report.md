@@ -127,3 +127,23 @@ For Toyota cars, buyers are willing to pay higher prices for trucks, even though
 
 In our analysis, we explored the relationship between the target variable, "Price," and various features, including condition, odometer, type, year, and fuel. These visualizations help us gain a better understanding of the dataset and its underlying patterns.
 
+# 5. Model Training
+
+In the predictive analytics phase, we will employ various machine learning models to build a regression model for predicting the target variable, "Price." The models we plan to use include:
+
+1. **Linear Regression**
+   - Description: Linear regression is a simple yet powerful model that seeks to establish a linear relationship between the input features and the target variable. It is widely used for predicting numeric values and is interpretable.
+
+2. **Random Forest**
+   - Description: Random Forest is an ensemble learning method that combines multiple decision trees to create a robust and accurate model. It is known for handling complex relationships and providing feature importance.
+
+3. **Decision Tree**
+   - Description: Decision trees are a fundamental model for regression tasks. They split the dataset into subsets based on feature conditions to predict numeric values. Decision trees are interpretable and can handle both linear and nonlinear relationships.
+
+4. **XGBoost Regression**
+   - Description: XGBoost is a gradient boosting algorithm that is highly efficient and effective for regression tasks. It optimizes the gradient descent process to minimize the loss function and make accurate predictions.
+
+These models will be trained and evaluated using the dataset, and their performance will be assessed based on metrics such as mean squared error, R-squared, and more. The goal is to determine which model performs best in predicting used car prices based on the selected features.
+
+By utilizing a combination of these models, we aim to provide accurate price predictions that can be valuable for both buyers and sellers in the used car market.
+
