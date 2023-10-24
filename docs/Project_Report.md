@@ -95,33 +95,33 @@ We created various visualizations using Plotly, Matplotlib, and Pandas to better
 
 ### Distribution of Car Prices by Condition
 
-![Condition Pie Chart](./downloads/Condition Pie Chart.png)
+![Condition Pie Chart](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/fa16a49b-695c-4185-9930-04158b337219)
 
 The pie chart visualizes the average prices of used cars grouped by their condition. Notably, "fair" condition cars account for approximately 79% of the total average prices. This suggests that "fair" condition cars dominate the used car market in terms of average price, while other conditions like "good," "excellent," and "like new" constitute smaller percentages.
 
-![Condition Pie Chart 2](./downloads/Condition Pie Chart 2.png)
+![Condition Pie Chart 2](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/77872a27-ba47-411d-9c97-911aa0cc1ba1)
 
 This pie chart illustrates the distribution of used car prices across different condition categories. It reveals that "fair" and "good" condition cars represent the largest shares of the market at 21% and 20%, respectively, indicating that a significant portion of used car stock falls within mid-tier condition categories.
 
 ### Price Variation Based on Odometer Readings
 
-![Odometer vs. Price](./downloads/Odometer vs. Price.png)
+![Odometer vs  Price](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/c3f4e49d-9c10-4b02-b653-1782037a0a2d)
 
 The interactive plot showcases the relationship between odometer readings and prices for different car brands. It suggests that vehicles with higher odometer readings tend to have lower prices, while those with lower odometer readings command higher prices. For instance, Jeep, with the highest selling odometers, exhibits the lowest prices, while Chevrolet, with a narrower odometer range, commands higher prices.
 
 ### Price Trends of Cars by Year
 
-![Price Trends by Year](./downloads/Price Trends by Year.png)
+![Price Trends by Year](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/d6321b76-6300-43ad-8921-81cd71d6117a)
 
 The line chart illustrates the average price of used cars grouped by the year of manufacture. It indicates that from the 1990s to the early 2010s, used cars were relatively high in price. This suggests that during this period, older used cars were valued quite highly, possibly due to factors like limited availability, specific model demand, or collector's value. However, there is a noticeable decrease in average prices after the early 2010s, followed by a price increase during the COVID-19 period.
 
 ### Cars Price vs. Odometer Reading by Car Type
 
-![Price vs. Odometer by Car Type](./downloads/Price vs. Odometer by Car Type.png)
+![Price vs  Odometer by Car Type](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/e3e13a24-17dc-441e-bf9f-49c8f4eeba6c)
 
 The interactive scatter plot provides insights into the price and odometer reading of cars by car type. It indicates that buyers of Volvo cars tend to prefer SUVs, which are associated with higher prices. Sedans are the next most preferred car type among Volvo buyers.
 
-![Price vs. Odometer by Car Type 2](./downloads/Price vs. Odometer by Car Type 2.png)
+![Price vs  Odometer by Car Type 2](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/6d965cc8-5594-4060-9e88-a8ef350c6346)
 
 For Toyota cars, buyers are willing to pay higher prices for trucks, even though the majority of buyers prefer SUVs over other car types.
 
