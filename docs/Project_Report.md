@@ -49,4 +49,81 @@
 | Latitude      | float     | Geographic coordinates representing the car's location for sale. |
 | Longitude     | float     | Geographic coordinates representing the car's location for sale. |
 
+# Potential Features
+
+In the context of regression analysis, we have identified potential features that can be used to predict the target variable, "Price." These features include:
+
+1. **Condition**
+   - Categories: 'good', 'excellent', 'fair', 'like new', 'new', 'salvage'
+   - Description: The condition of the used car, which can greatly influence its price.
+
+2. **Fuel**
+   - Categories: 'gas', 'other', 'diesel', 'hybrid', 'electric'
+   - Description: The type of fuel used by the car, which can impact both environmental factors and operating costs.
+
+3. **Drive**
+   - Categories: 'rwd' (Rear-Wheel Drive), '4wd' (Four-Wheel Drive), 'fwd' (Front-Wheel Drive)
+   - Description: The drive transmission type of the car, which affects its performance and handling.
+
+4. **Type**
+   - Categories: 'pickup', 'truck', 'other', 'coupe', 'SUV' (Sport Utility Vehicle), 'hatchback', 'mini van', 'sedan', 'offroad', 'bus', 'van', 'convertible', 'wagon'
+   - Description: The vehicle type or body style, providing insights into the car's intended use and design.
+
+5. **Year**
+   - Description: The year of car manufacture, representing its age and technology.
+
+6. **Odometer**
+   - Description: The distance the car has traveled after purchase, an important indicator of its usage.
+
+# Target Variable: Price
+
+In regression analysis, the target variable we aim to predict is "Price." This variable represents the price of the used car in US dollars. Understanding the factors influencing car prices is crucial for pricing strategies, valuation, and market analysis.
+
+Using these potential features, we can build regression models to predict the price of used cars based on various attributes. These models can provide valuable insights for both buyers and sellers in the used car market.
+
+# Exploratory Data Analysis (EDA)
+
+In order to gain a deeper understanding of the dataset and prepare it for model training, we conducted Exploratory Data Analysis (EDA). EDA provides essential insights into the relationships within the data, guiding us to make informed decisions about methods and model choices.
+
+## Dataset Transformation
+
+The initial dataset shape was (426,880, 26). After addressing null values, duplicates, and eliminating unnecessary columns, the final dataset shape was (338,589, 14).
+
+## Data Analysis and Visualizations
+
+We created various visualizations using Plotly, Matplotlib, and Pandas to better comprehend the dataset and its characteristics.
+
+### Distribution of Car Prices by Condition
+
+![Condition Pie Chart](./downloads/Condition Pie Chart.png)
+
+The pie chart visualizes the average prices of used cars grouped by their condition. Notably, "fair" condition cars account for approximately 79% of the total average prices. This suggests that "fair" condition cars dominate the used car market in terms of average price, while other conditions like "good," "excellent," and "like new" constitute smaller percentages.
+
+![Condition Pie Chart 2](./downloads/Condition Pie Chart 2.png)
+
+This pie chart illustrates the distribution of used car prices across different condition categories. It reveals that "fair" and "good" condition cars represent the largest shares of the market at 21% and 20%, respectively, indicating that a significant portion of used car stock falls within mid-tier condition categories.
+
+### Price Variation Based on Odometer Readings
+
+![Odometer vs. Price](./downloads/Odometer vs. Price.png)
+
+The interactive plot showcases the relationship between odometer readings and prices for different car brands. It suggests that vehicles with higher odometer readings tend to have lower prices, while those with lower odometer readings command higher prices. For instance, Jeep, with the highest selling odometers, exhibits the lowest prices, while Chevrolet, with a narrower odometer range, commands higher prices.
+
+### Price Trends of Cars by Year
+
+![Price Trends by Year](./downloads/Price Trends by Year.png)
+
+The line chart illustrates the average price of used cars grouped by the year of manufacture. It indicates that from the 1990s to the early 2010s, used cars were relatively high in price. This suggests that during this period, older used cars were valued quite highly, possibly due to factors like limited availability, specific model demand, or collector's value. However, there is a noticeable decrease in average prices after the early 2010s, followed by a price increase during the COVID-19 period.
+
+### Cars Price vs. Odometer Reading by Car Type
+
+![Price vs. Odometer by Car Type](./downloads/Price vs. Odometer by Car Type.png)
+
+The interactive scatter plot provides insights into the price and odometer reading of cars by car type. It indicates that buyers of Volvo cars tend to prefer SUVs, which are associated with higher prices. Sedans are the next most preferred car type among Volvo buyers.
+
+![Price vs. Odometer by Car Type 2](./downloads/Price vs. Odometer by Car Type 2.png)
+
+For Toyota cars, buyers are willing to pay higher prices for trucks, even though the majority of buyers prefer SUVs over other car types.
+
+In our analysis, we explored the relationship between the target variable, "Price," and various features, including condition, odometer, type, year, and fuel. These visualizations help us gain a better understanding of the dataset and its underlying patterns.
 
