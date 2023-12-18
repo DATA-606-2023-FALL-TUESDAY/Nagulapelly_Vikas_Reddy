@@ -2,8 +2,12 @@
 - **Title:** Analysis of Used Cars and Price Prediction
 - **Prepared for:** UMBC Data Science master’s degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author:** Vikas Reddy Nagulapelly
-- **GitHub:** [https://github.com/vikas-reddy-319](https://github.com/vikas-reddy-319)
-- **LinkedIn:** [https://www.linkedin.com/in/vikasreddynagulapelly](https://www.linkedin.com/in/vikasreddynagulapelly)
+- <a href=" https://github.com/vikas-reddy-319"><img align="left" src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat" alt="icon | GitHub"/></a> 
+  
+- <a href=" https://www.linkedin.com/in/vikasreddynagulapelly /"><img align="left" src="https://img.shields.io/badge/-LinkedIn: Lets Connect!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
+- <a href=" docs/Used car Price Prediction.pptx "><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
+
+- <a href="https://youtube.com"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a>
 
 # Background
 **Background:** Craigslist is one of the largest advertisement websites for viewing and posting local advertisements, covering various categories, including housing, job postings, items for sale, services, and personals. The data for this project was scraped from the website [Craigslist](https://www.craigslist.org).
