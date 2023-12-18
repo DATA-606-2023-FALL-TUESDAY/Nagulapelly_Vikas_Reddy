@@ -4,8 +4,8 @@
 - **Author:** Vikas Reddy Nagulapelly
 - **GitHub:** [https://github.com/vikas-reddy-319](https://github.com/vikas-reddy-319) 
   
-- <a href=" https://www.linkedin.com/in/vikasreddynagulapelly/"><img align="left" src="https://img.shields.io/badge/-LinkedIn!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
-- <a href=" Used car Price Prediction.pptx "><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
+- <a href="https://www.linkedin.com/in/vikasreddynagulapelly/"><img align="left" src="https://img.shields.io/badge/-LinkedIn!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
+- <a href="[ Used car Price Prediction.pptx ](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/blob/main/docs/Used%20car%20Price%20Prediction.pptx)"><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
 
 - <a href="https://youtube.com"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a>
 
