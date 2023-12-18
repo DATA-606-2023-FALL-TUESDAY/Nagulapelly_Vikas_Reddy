@@ -4,8 +4,8 @@
 - **Author:** Vikas Reddy Nagulapelly
 - [GitHub]( https://github.com/vikas-reddy-319)
 - [LinkedIn]( https://www.linkedin.com/in/vikasreddynagulapelly)
-- [presentation]( https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/blob/main/docs/Used%20car%20Price%20Prediction.pptx)
-- [YouTube video]( https://www.youtube.com/)
+- [Presentation]( https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/blob/main/docs/Used%20car%20Price%20Prediction.pptx)
+- [YouTube Video]( https://www.youtube.com/)
 
 # Background
 **Background:** Craigslist is one of the largest advertisement websites for viewing and posting local advertisements, covering various categories, including housing, job postings, items for sale, services, and personals. The data for this project was scraped from the website [Craigslist](https://www.craigslist.org).
