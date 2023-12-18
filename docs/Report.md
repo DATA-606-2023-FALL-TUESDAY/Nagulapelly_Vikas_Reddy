@@ -2,10 +2,10 @@
 - **Title:** Analysis of Used Cars and Price Prediction
 - **Prepared for:** UMBC Data Science master’s degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author:** Vikas Reddy Nagulapelly
-- <a href=" https://github.com/vikas-reddy-319"><img align="left" src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat" alt="icon | GitHub"/></a> 
+- **GitHub:** [https://github.com/vikas-reddy-319](https://github.com/vikas-reddy-319) 
   
-- <a href=" https://www.linkedin.com/in/vikasreddynagulapelly /"><img align="left" src="https://img.shields.io/badge/-LinkedIn: Lets Connect!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
-- <a href=" docs/Used car Price Prediction.pptx "><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
+- <a href=" https://www.linkedin.com/in/vikasreddynagulapelly/"><img align="left" src="https://img.shields.io/badge/-LinkedIn!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
+- <a href=" Used car Price Prediction.pptx "><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
 
 - <a href="https://youtube.com"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a>
 
