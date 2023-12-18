@@ -149,3 +149,37 @@ These models will be trained and evaluated using the dataset, and their performa
 
 By utilizing a combination of these models, we aim to provide accurate price predictions that can be valuable for both buyers and sellers in the used car market.
 
+# 6. Comparision of Models
+![Models_comparision](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/ec9494be-721a-45b6-8e79-d7878f891f14)
+
+Random Forest algorithm has the highest R2 score for the test data
+
+# 7. Application of Trained Models
+
+The application of the trained models in our project is manifested through the development of a user-friendly Streamlit web app. This interactive platform empowers users to input specific details about a used car, ranging from its manufacturer and condition to cylinders, fuel type, and various other features. Leveraging the predictive power of our trained models, particularly the Random Forest Regressor, the app dynamically analyzes these inputs and forecasts the estimated price of the car. This application holds immense practical value for both potential buyers and sellers in the used car market. Buyers can make informed decisions based on predicted prices, while sellers can set competitive and fair rates. The intuitive design and seamless user experience of the web app ensure accessibility to a broad audience, bridging the gap between complex machine learning models and end-users, and enhancing the overall transparency and efficiency of the used car trading process.
+
+![Streamlit](https://github.com/DATA-606-2023-FALL-TUESDAY/Nagulapelly_Vikas_Reddy/assets/81422237/6e8c26a8-29ab-41a0-b2c4-64ac771613fc)
+
+# 8. Conclusion and Future Scope
+
+In summary, our project achieved significant success in accurately predicting used car prices. The models, including Decision Tree, Grid Search CV using Decision Tree, and Random Forest Regressor, demonstrated robust performance, providing valuable insights into the dynamic factors influencing pricing.
+
+The emphasis on data preprocessing ensured a refined dataset for training, contributing to the models' effectiveness. The practical implications of our findings extend to both buyers and sellers, fostering a more transparent and informed used car market. 
+
+Looking forward, the project's future scope involves expanding datasets, exploring advanced modeling techniques, and refining user interfaces for broader accessibility.
+
+# 9. References
+
+Videos
+
+https://www.youtube.com/watch?v=VqgUkExPvLY
+https://www.youtube.com/@DataThinkers
+
+Articles
+
+https://minaomobonike.medium.com/data-analysis-and-science-of-craigslist-used-car-dataset-cfe8b0147a51
+https://pypi.org/project/streamlit/
+
+
+
+
